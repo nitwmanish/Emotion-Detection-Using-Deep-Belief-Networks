@@ -1,1 +1,1 @@
-# Emotion-Detection-Using-Deep-Belief-Networks
+# Emotion Detection Using Deep Belief Networks
